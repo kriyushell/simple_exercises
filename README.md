@@ -1,5 +1,5 @@
-# simple_exercises
 
-<h1> simple exercises with programming languages. </h1>
+
+<h1><font color:"#0090ff">Simple exercises with programming languages. </font></h1>
 
 language: TR
