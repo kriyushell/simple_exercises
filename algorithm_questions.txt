@@ -1,0 +1,9 @@
+1 - Kullanıcının klavyeden girdiği sayı 3’ e ve 5’ e tam bölünüyorsa ekrana tam bölünüyor yazan bölünmüyorsa bölünmüyor yazan programı oluşturun.
+2 - Girilen 3 sayıdan en büyüğünü bulan programı yazınız.
+3 - Klavyeden girilen 3 basamaklı sayının 1. 2. ve 3. basamağını (Basamak Değerlerini) yazdıran programı yazınız. (string manipülasyonu kullanmayınız.)
+4 - Klavyeden girilen 0 ile 99.999 arasındaki sayının basamak değerlerini ekrana yazdıran program?
+5 - Saatte ortalama 60 km yol giden bir aracın, klavyeden girilen mesafeyi kaç saatte gideceğini hesaplayan programı yazınız.
+6 - Bir fabrikada sabit maaşla çalışan işçiler aile durumlarına göre ek maaş almaktadırlr. Çocuk sayısı 1 ise maaşının %5’i kadar , çocuk sayısı 2 ise %10’u 3 ve daha fazla ise %15’i kadar aile yardımı almaktadır.
+Buna göre kullanıcıdan işçinin maaşı ve çocuk sayısı istenerek gerekli hesaplamayı yapan programı yazınız.
+7 - Bir fabrikada işçinin alacağı ücret hesaplanırken şu kraterlere uyulmaktadır; Eğer işçi 40 saatten az çalışmışsa çalıştığı saat ve saat ücreti çarpılarak alacağı ücret hesaplanıyor, 
+eğer işçi 40 saat ve daha fazla çalışmışsa çalıştığı saat 2 saat olarak hesaplanacak buna göre bilgileri alınarak ödenecek tutarı yazdıran algoritması.
