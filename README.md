@@ -5,13 +5,17 @@
 You can contact me if you can think of a better solution.
 my discord acount: R4mp4g3#4290
 
-questions;
+<h3>Questions;</h3>
 language: TR
 
 <b>Soru 1</b>: Girilen 3 sayıdan en büyüğünü bulan programı yazınız (kendi algoritmanızı kullanarak).
 
 <b>Soru 2</b>: Mükemmel sayı, sayılar teorisinde, kendisi hariç pozitif tam bölenlerinin toplamı kendisine eşit olan sayı. Diğer bir ifadeyle, bir mükemmel sayı, bütün pozitif tam bölenlerinin toplamının yarısına eşittir. Girilen Sayı Mükkemmel sayı ise <u>"The number entered is the Perfect number."</u> mükemmel sayı değilse <u>"The number entered is not a Perfect number."</u> çıktısını ekrana yazdırınız.
+örnek girdi: 6
+örnek çıktı: The number entered is the Perfect number.
+6 = 1 + 2 + 3 olduğu için mükemmel sayıdır.
 
+<b>Soru 3</b>: 
 
 
 
