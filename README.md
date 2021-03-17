@@ -15,9 +15,13 @@ language: TR
 örnek çıktı: The number entered is the Perfect number.<br>
 6 = 1 + 2 + 3 olduğu için mükemmel sayıdır.<br>
 
-<b>Soru 3</b>: Klavyeden girilen 3 basamaklı sayının 1. 2. ve 3. basamağını (Basamak Değerlerini) yazdıran programı yazınız. (string manipülasyonu kullanmayınız.)<br>
+<b>Soru 3</b>: Kullanıcının klavyeden girdiği sayı 3’ e ve 5’ e tam bölünüyorsa ekrana tam bölünüyor yazan bölünmüyorsa bölünmüyor yazan programı oluşturun. <br>
 
-<b>Soru 4</b>: Bir sayının her basamağının, sayının basamak sayısı kadar kuvvetini alıp topladığımızda sayının kendisini veriyorsa bu sayılara armstrong sayılar denir.<br>
+<b>Soru 4</b>: Klavyeden girilen 0 ile 99.999 arasındaki sayının basamak değerlerini ekrana yazdıran program?<br>
+
+<b>Soru 5</b>: Klavyeden girilen 3 basamaklı sayının 1. 2. ve 3. basamağını (Basamak Değerlerini) yazdıran programı yazınız. (string manipülasyonu kullanmayınız.)<br>
+
+<b>Soru 6</b>: Bir sayının her basamağının, sayının basamak sayısı kadar kuvvetini alıp topladığımızda sayının kendisini veriyorsa bu sayılara armstrong sayılar denir.<br>
 ABC=A^3+B^3+C^3<br>ABC sayısı armstrong bir sayıdır.<br>
 Girilen Sayı Armstrong sayı ise <u>"The number entered is the Armstrong number."</u> Armstrong sayı değilse <u>"The number entered is not a Armstrong number."</u> çıktısını ekrana yazdırınız.<br>
 örnek girdi: 153<br>
