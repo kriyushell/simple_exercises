@@ -15,7 +15,14 @@ language: TR
 örnek çıktı: The number entered is the Perfect number.<br>
 6 = 1 + 2 + 3 olduğu için mükemmel sayıdır.<br>
 
-<b>Soru 3</b>: 
+<b>Soru 3</b>: Bir sayının her basamağının, sayının basamak sayısı kadar kuvvetini alıp topladığımızda sayının kendisini veriyorsa bu sayılara armstrong sayılar denir.<br>
+ABC=A^3+B^3+C^3       ABC sayısı armstrong bir sayıdır.<br>
+Girilen Sayı Armstrong sayı ise <u>"The number entered is the Armstrong number."</u> Armstrong sayı değilse <u>"The number entered is not a Armstrong number."</u> çıktısını ekrana yazdırınız.<br>
+örnek girdi: 153<br>
+örnek çıktı: The number entered is the Armstrong number.<br>
+153 = 1^3 + 5^3 + 3^3 olduğu için Armstrong sayıdır.<br>
+<b>Soru 4</b>:
+
 
 
 
