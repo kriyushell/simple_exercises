@@ -14,6 +14,7 @@ language: TR
 örnek girdi: 6<br>
 örnek çıktı: The number entered is the Perfect number.<br>
 6 = 1 + 2 + 3 olduğu için mükemmel sayıdır.<br>
+
 <b>Soru 3</b>: Klavyeden girilen 3 basamaklı sayının 1. 2. ve 3. basamağını (Basamak Değerlerini) yazdıran programı yazınız. (string manipülasyonu kullanmayınız.)<br>
 
 <b>Soru 4</b>: Bir sayının her basamağının, sayının basamak sayısı kadar kuvvetini alıp topladığımızda sayının kendisini veriyorsa bu sayılara armstrong sayılar denir.<br>
