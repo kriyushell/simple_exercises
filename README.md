@@ -52,9 +52,9 @@ Girilen Sayı Armstrong sayı ise <u>"The number entered is the Armstrong number
 
 <b>Soru 17</b>: Bir eksiği 4’e tam bölünebilen pozitif tam sayılara Hilbert Sayısı denir.<br>Kullanıcıdan alınan sayının Hilbert sayısı olma durumunu kontrol eden programı yazınız.<br>
 
-<b>Soru 18</b>:0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987.. diye devam eden her sayının kendisinden önceki iki ardışık sayının toplamına eşit olduğu sayı dizisine Fibonacci dizisi denmektedir. Bu dizinin terimleri ise Fibo sayısı olarak adlandırılmıştır. Kullanıcıdan n(dizinin eleman sayısı) sayısını alıp sıfırdan başlayan n elemanlı fibonacci dizisini oluşturan programı yazınız.<br>
+<b>Soru 18</b>: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987.. diye devam eden her sayının kendisinden önceki iki ardışık sayının toplamına eşit olduğu sayı dizisine Fibonacci dizisi denmektedir. Bu dizinin terimleri ise Fibo sayısı olarak adlandırılmıştır. Kullanıcıdan n(dizinin eleman sayısı) sayısını alıp sıfırdan başlayan n elemanlı fibonacci dizisini oluşturan programı yazınız.<br>
 
-
+<b>Soru 18</b>: [Pascal Üçgeni Nedir](https://tr.wikipedia.org/wiki/Pascal_üçgeni)
 
 
 
