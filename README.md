@@ -54,9 +54,9 @@ Girilen Sayı Armstrong sayı ise <u>"The number entered is the Armstrong number
 
 <b>Soru 18</b>: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987.. diye devam eden her sayının kendisinden önceki iki ardışık sayının toplamına eşit olduğu sayı dizisine Fibonacci dizisi denmektedir. Bu dizinin terimleri ise Fibo sayısı olarak adlandırılmıştır. Kullanıcıdan n(dizinin eleman sayısı) sayısını alıp sıfırdan başlayan n elemanlı fibonacci dizisini oluşturan programı yazınız.<br>
 
-<b>Soru 18</b>: [Pascal Üçgeni Nedir](https://tr.wikipedia.org/wiki/Pascal_üçgeni)
+<b>Soru 19</b>: [Pascal Üçgeni Nedir](https://tr.wikipedia.org/wiki/Pascal_üçgeni)<br>Kullanıcıdan alınan n(üçgenin yüksekliği) sayısını alıp n tane basamağa sahip pascal üçgeni oluşturan programı yazınız.
 
-
+<b>Soru 20</b>: Girilen sayıyı ikilik sisteme(binary) çeviriren programı yazınız.
 
 
 
