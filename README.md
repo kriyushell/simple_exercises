@@ -5,8 +5,16 @@
 language: TR
 
 You can contact me if you can think of a better solution.
+my discord acount: R4mp4g3#4290
 
-my discord acount: 
+
+
+
+
+
+
+
+
 
 
 
