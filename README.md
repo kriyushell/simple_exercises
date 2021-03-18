@@ -35,7 +35,7 @@ Girilen Sayı Armstrong sayı ise <u>"The number entered is the Armstrong number
 
 <b>Soru 9</b>: Bir fabrikada sabit maaşla çalışan işçiler aile durumlarına göre ek maaş almaktadırlr. Çocuk sayısı 1 ise maaşının %5’i kadar , çocuk sayısı 2 ise %10’u 3 ve daha fazla ise %15’i kadar aile yardımı almaktadır. Buna göre kullanıcıdan işçinin maaşı ve çocuk sayısı istenerek gerekli hesaplamayı yapan programı yazınız.<br>
 
-<b>Soru 10</b>: 7 - Bir fabrikada işçinin alacağı ücret hesaplanırken şu kraterlere uyulmaktadır; Eğer işçi 40 saatten az çalışmışsa çalıştığı saat ve saat ücreti çarpılarak alacağı ücret hesaplanıyor, eğer işçi 40 saat ve daha fazla çalışmışsa çalıştığı saat 2 saat olarak hesaplanacak buna göre bilgileri alınarak ödenecek tutarı yazdıran programı yapınız.
+<b>Soru 10</b>: Yarıçapı girilen dairenin çevresini ve alanını hesaplayan programı yazınız (pi sayısını 3.14 olarak alınız)<br<
 
 
 <b>Soru 11</b>: Girilen sayının Pozitif tam bölenlerini ekrana yazdıran programı yazınız.<br>
