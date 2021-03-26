@@ -1,7 +1,7 @@
 """
 Kodda herhangi bir hata veya
-daha iyi bir çözümü oldugunu dusunuyorsanı
-bana discord adresimden ulaşabilirsiniz.
+daha iyi bir cozumu oldugunu dusunuyorsaniz
+bana discord adresimden ulasabilirsiniz.
 DiscordAdresim: R4mp4g3#4290
 """
 
