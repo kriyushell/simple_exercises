@@ -13,3 +13,8 @@
 ----[NumberGuessingGame_On_Console](https://github.com/R4mp4g3-0/simple_exercises/tree/main/Python/NumberGuessingGame_On_Console)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   |---- [main.py](https://github.com/R4mp4g3-0/simple_exercises/blob/main/Python/NumberGuessingGame_On_Console/main.py)<br>
+
+
+----[NumberGuessingGame_On_Gui](https://github.com/R4mp4g3-0/simple_exercises/tree/main/Python/NumberGuessingGame_On_Gui)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  |---- [main.py](https://github.com/R4mp4g3-0/simple_exercises/blob/main/Python/NumberGuessingGame_On_Gui/main.py)<br>
