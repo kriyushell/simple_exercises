@@ -10,3 +10,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   |---- [icon.ico](https://github.com/R4mp4g3-0/simple_exercises/blob/main/Python/TicTacToe_Game_On_Gui/icon.ico)<br>
 
+----[NumberGuessingGame_On_Console](https://github.com/R4mp4g3-0/simple_exercises/tree/main/Python/NumberGuessingGame_On_Console)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  |---- [main.py](https://github.com/R4mp4g3-0/simple_exercises/blob/main/Python/NumberGuessingGame_On_Console/main.py)<br>
