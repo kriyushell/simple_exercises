@@ -27,4 +27,4 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   |---- [main.py](https://github.com/R4mp4g3-0/simple_exercises/blob/main/Python/NumberGuessingGame_On_Gui/V2/main.py)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  |---- [_icon.ico](https://github.com/R4mp4g3-0/simple_exercises/blob/main/Python/NumberGuessingGame_On_Gui/V1/_icon.ico)<br>
+  |---- [_icon.ico](https://github.com/R4mp4g3-0/simple_exercises/blob/main/Python/NumberGuessingGame_On_Gui/V2/_icon.ico)<br>
