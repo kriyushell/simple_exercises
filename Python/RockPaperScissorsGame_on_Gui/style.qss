@@ -1,0 +1,17 @@
+QMainWindow{
+    background-color: rgb(255, 255, 255);
+}
+
+QPushButton{
+	border-radius : 50;
+	border: 2px solid rgb(230, 38, 73);
+	background-color: rgb(230, 38, 73);
+}
+QPushButton:default {
+    border-color: navy;
+}
+QPushButton:pressed {
+   background-color: rgb(230, 0, 46);
+}
+QPushButton:flat {
+    border: none;
