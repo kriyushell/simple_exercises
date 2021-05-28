@@ -33,3 +33,9 @@
 ----[RockPaperScissorsGame_on_Console](https://github.com/R4mp4g3-0/simple_exercises/tree/main/Python/RockPaperScissorsGame_on_Console)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   |---- [main.py](https://github.com/R4mp4g3-0/simple_exercises/blob/main/Python/RockPaperScissorsGame_on_Console/main.py)<br>
+  
+  
+
+----[RockPaperScissorsGame_on_Gui](https://github.com/R4mp4g3-0/simple_exercises/tree/main/Python/RockPaperScissorsGame_on_Console)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  |---- [main.py](https://github.com/R4mp4g3-0/simple_exercises/blob/main/Python/RockPaperScissorsGame_on_Console/main.py)<br>
