@@ -3,7 +3,7 @@
 <b><h1>Simple exercises with programming languages.</h1></b>
 
 You can contact me if you can think of a better solution.<br>
-my discord acount: R4mp4g3#4290
+my discord acount: Kriyushell#4290
 
 <h3>Questions;</h3>
 language: TR
