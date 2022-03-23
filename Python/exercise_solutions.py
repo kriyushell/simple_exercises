@@ -2,7 +2,7 @@
 """
 sorular için daha iyi bir çözüm bulursaniz discord'dan bana ulasabilirsiniz,
 sizin çözümünüzüde eklerim.
-discrod hesabim: R4mp4g3#4290
+discrod hesabim: Kriyushell#4290
 
 not: bu dosya daha sonra guncellenebilir.
 """
